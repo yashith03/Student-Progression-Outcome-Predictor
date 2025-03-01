@@ -1,4 +1,4 @@
-# Student Progression Outcome Predictor
+# Student Progression Outcome Predictor.
 
 ## Overview
 This Python program predicts student progression outcomes at the end of an academic year based on the number of credits achieved in the pass, defer, and fail categories. The program validates inputs, classifies students into different progression categories, and provides a graphical histogram representation using the `graphics.py` library.
